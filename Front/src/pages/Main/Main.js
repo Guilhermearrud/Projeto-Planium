@@ -6,6 +6,8 @@ function Main() {
 
   const navigate = useNavigate()
 
+  console.log("aiosdjasodjasoid")
+
   const onClickPlanos = () => {
     goToPlanos(navigate)
   }

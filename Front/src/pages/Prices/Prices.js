@@ -44,6 +44,10 @@ export const Prices = () => {
     showPrices()
   }, [])
 
+  const bla = () => {
+    console.log('OPA')
+  }
+
   return (
     <div>
       <button onClick={handleBack}>Voltar</button>
@@ -51,6 +55,8 @@ export const Prices = () => {
       <StyledBox>
         {listPrices}
       </StyledBox>
+
+      <button onClick={bla}> OIE </button>
     </div>
   )
 }
