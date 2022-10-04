@@ -15,8 +15,16 @@ export default async function manageBene(req: Request, res: Response) {
         const { qntdBeneficiarios, registroEscolhido, beneficiarios }: inputBeneficiario = req.body
 
 
-        if (!qntdBeneficiarios || !registroEscolhido || !beneficiarios) {
-            throw new Error("Por favor digite todas as informações necessárias!")
+        if (!qntdBeneficiarios) {
+            throw new Error("Por favor digite o número de beneficiarios do plano")
+        }
+
+        if (!registroEscolhido){
+            throw new Error("Por favor digite o número do plano escolhido")
+        }
+
+        if (!beneficiarios){
+            throw new Error("Digite as informações dos beneficiarios.")
         }
 
         for (let i = 0; i < beneficiarios.length; i++) {

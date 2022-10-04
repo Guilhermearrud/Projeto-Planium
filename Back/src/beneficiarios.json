@@ -11,114 +11,34 @@
     ]
   },
   {
-    "qntdBeneficiarios": 2,
+    "qntdBeneficiarios": 1,
     "registroEscolhido": 1,
     "beneficiarios": [
       {
-        "nome": "Erika",
-        "idade": 30,
-        "preco": 12
-      },
-      {
-        "nome": "Gustavo",
-        "idade": 18,
+        "nome": "Arthur",
+        "idade": 20,
         "preco": 12
       }
     ]
   },
   {
-    "qntdBeneficiarios": 2,
-    "registroEscolhido": 2,
+    "qntdBeneficiarios": 3,
+    "registroEscolhido": 1,
     "beneficiarios": [
       {
-        "nome": "Fernando",
+        "nome": "Eduardo",
         "idade": 20,
-        "preco": 30
+        "preco": 12
       },
       {
-        "nome": "Guilherme",
+        "nome": "Caio",
         "idade": 30,
-        "preco": 30
-      }
-    ]
-  },
-  {
-    "qntdBeneficiarios": 2,
-    "registroEscolhido": 2,
-    "beneficiarios": [
-      {
-        "nome": "Fernando",
-        "idade": 20,
-        "preco": 30
+        "preco": 12
       },
       {
-        "nome": "Guilherme",
-        "idade": 30,
-        "preco": 30
-      }
-    ]
-  },
-  {
-    "qntdBeneficiarios": 2,
-    "registroEscolhido": 2,
-    "beneficiarios": [
-      {
-        "nome": "Fernando",
-        "idade": 20,
-        "preco": 30
-      },
-      {
-        "nome": "Guilherme",
-        "idade": 30,
-        "preco": 30
-      }
-    ]
-  },
-  {
-    "qntdBeneficiarios": 2,
-    "registroEscolhido": 2,
-    "beneficiarios": [
-      {
-        "nome": "Fernando",
-        "idade": 20,
-        "preco": 30
-      },
-      {
-        "nome": "Guilherme",
-        "idade": 30,
-        "preco": 30
-      }
-    ]
-  },
-  {
-    "qntdBeneficiarios": 2,
-    "registroEscolhido": 2,
-    "beneficiarios": [
-      {
-        "nome": "Fernando",
-        "idade": 20,
-        "preco": 30
-      },
-      {
-        "nome": "Guilherme",
-        "idade": 30,
-        "preco": 30
-      }
-    ]
-  },
-  {
-    "qntdBeneficiarios": 2,
-    "registroEscolhido": 2,
-    "beneficiarios": [
-      {
-        "nome": "Fernando",
-        "idade": 20,
-        "preco": 30
-      },
-      {
-        "nome": "Guilherme",
-        "idade": 30,
-        "preco": 30
+        "nome": "Felipe",
+        "idade": 45,
+        "preco": 15
       }
     ]
   }
